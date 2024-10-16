@@ -1,0 +1,210 @@
+{
+    "area_damaged": {
+        "áreas baixas": 1,
+        "espalhado": 2,
+        "campo inteiro": 3,
+        "áreas superiores": 4,
+        "Desconhecido": 0
+    },
+    "canker_lesion": {
+        "bronzeado": 1,
+        "Marrom": 2,
+        "dna": 3,
+        "dk-marrom-preto": 4,
+        "Desconhecido": 0
+    },
+    "crop_hist": {
+        "dif-1º ano": 1,
+        "mesmo primeiro ano": 2,
+        "mesmo-último-dois anos": 3,
+        "mesmo-lst-sev-anos": 8,
+        "Desconhecido": 0
+    },
+    "date": {
+        "Janeiro": 1,
+        "Fevereiro": 2,
+        "Marco": 3,
+        "Abril": 4,
+        "Maio": 5,
+        "Junho": 6,
+        "Julho": 7,
+        "Agosto": 8,
+        "Setembro": 9,
+        "Outubro": 10,
+        "Novembro": 11,
+        "Dezembro": 12,
+        "Desconhecido": 0
+    },
+    "external_decay": {
+        "Ausente": 1,
+        "firme e seco": 2,
+        "Desconhecido": 0
+    },
+    "fruit_spots": {
+        "Ausente": 1,
+        "Colorido": 2,
+        "Marrom com manchas pretas": 3,
+        "dna": 4,
+        "Desconhecido": 0
+    },
+    "fruiting_bodies": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "fruit_pods": {
+        "normal": 1,
+        "poucos presentes": 2,
+        "Doente": 3,
+        "dna": 4,
+        "Desconhecido": 0
+    },
+    "germination": {
+        "90-100%": 3,
+        "80-89%": 2,
+        "lt-80%": 1,
+        "Desconhecido": 0
+    },
+    "hail": {
+        "Sim": 1,
+        "Nao": 0,
+        "Desconhecido": 0
+    },
+    "int_discolor": {
+        "Nenhuma": 1,
+        "Marrom": 2,
+        "Preto": 3,
+        "Desconhecido": 0
+    },
+    "leaf_malf": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "leaf_mild": {
+        "Ausente": 1,
+        "Surf mais baixo": 2,
+        "Surf superior": 3,
+        "Desconhecido": 0
+    },
+    "leaf_sheath_red": {
+        "ausente": 1,
+        "Presente": 2,
+        "Desconhecido": 0
+    },
+    "leafspots_halo": {
+        "ausente": 1,
+        "sem halos amarelos": 2,
+        "halos amarelos": 3,
+        "Desconhecido": 0
+    },
+    "leafspot_size": {
+        "gt-1/8": 1,
+        "lt-1/8": 2,
+        "dna": 3,
+        "Desconhecido": 0
+    },
+    "leafspot_marg": {
+        "no-w-s-marg": 1,
+        "w-s-marg": 2,
+        "dna": 3,
+        "Desconhecido": 0
+    },
+    "leaves": {
+        "normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "lodging": {
+        "Sim": 2,
+        "Nao": 1,
+        "Desconhecido": 0
+    },
+    "mold_growth": {
+        "Ausente": 1,
+        "Presente": 2,
+        "Desconhecido": 0
+    },
+    "mycelium": {
+        "Ausente": 1,
+        "Presente": 2,
+        "Desconhecido": 0
+    },
+    "plant_growth": {
+        "normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "plant_stand": {
+        "normal": 1,
+        "Lt-normal": 2,
+        "Desconhecido": 0
+    },
+    "precip": {
+        "gt-normal": 2,
+        "lt-normal": 3,
+        "normal": 1,
+        "Desconhecido": 0
+    },
+    "roots": {
+        "normal": 1,
+        "Apodrecido": 2,
+        "cistos de vesícula": 3,
+        "Desconhecido": 0
+    },
+    "sclerotia": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "seed": {
+        "normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "seed_discolor": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "seed_size": {
+        "normal": 1,
+        "lt-normal": 2,
+        "Desconhecido": 0
+    },
+    "seed_tmt": {
+        "nenhuma": 1,
+        "fungicida": 3,
+        "Outros": 2,
+        "Desconhecido": 0
+    },
+    "severity": {
+        "Menor": 1,
+        "forte": 2,
+        "pode-severo": 3,
+        "Desconhecido": 0
+    },
+    "shriveling": {
+        "Ausente": 0,
+        "Presente": 1,
+        "Desconhecido": 0
+    },
+    "stem": {
+        "normal": 2,
+        "Anormal": 1,
+        "Desconhecido": 0
+    },
+    "steam_cankers": {
+        "Ausente": 2,
+        "abaixo do solo": 3,
+        "Acima do solo": 4,
+        "Acima-sec-nde": 1,
+        "Desconhecido": 0
+    },
+    "temp_": {
+        "lt-normal": 3,
+        "normal": 1,
+        "normal gt": 2,
+        "Desconhecido": 0
+    }
+}
